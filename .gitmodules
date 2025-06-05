@@ -1,0 +1,3 @@
+[submodule "hiv-treatment-system"]
+	path = hiv-treatment-system
+	url = https://github.com/TranNgocKhiet/hiv-treatment-system.git
